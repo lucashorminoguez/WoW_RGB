@@ -1,0 +1,18 @@
+# Bin and Compile
+__pycache__/
+build/
+dist/
+*.spec
+*.exe
+
+# System docs
+.DS_Store
+Thumbs.db
+
+# User Configs
+config.ini
+config.json
+
+# Virtual Enviroment
+venv/
+env/
