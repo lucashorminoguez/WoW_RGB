@@ -48,8 +48,12 @@ The system is designed to be powered via **USB (5V)**.
 * **Red Channel (-):** To Transistor 1 Collector -> Base to **GPIO 0**.
 * **Green Channel (-):** To Transistor 2 Collector -> Base to **GPIO 2**.
 * **GND:** Common Ground for ALL components (USB, ESP, Emitters, and Capacitors negative).
+  
+> **⚠️ SAFETY WARNING:** > Most commercial 5V strips have built-in resistors. However, **recycled Scanner/Printer bars often DO NOT.**
+> Inspect your bar: if you don't see any resistors on the PCB, **you MUST add resistors in series** with the Red and Green wires (between the strip and the transistor).
 
-*(Note: This project uses only 2 channels (Red/Green) to mix Yellow. The Blue channel is left disconnected for this specific Health Bar effect).*
+*(Note 1: This project uses only 2 channels (Red/Green) to mix Yellow. The Blue channel is left disconnected for this specific Health Bar effect).*
+*(Note 2: GPIO 0 and GPIO 2 must be HIGH at boot. You can use a switch, pull-up resistors, or simply use the TX and RX pins instead.)*
 
 ## 📦 Installation & Usage
 
