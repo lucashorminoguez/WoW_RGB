@@ -86,11 +86,13 @@ Only for the first time:
 
 <div align="center">
   <h3>Watch the Project Demo</h3>
-  <a href="https://github.com/user-attachments/assets/a9a05471-02a1-43d0-8fd5-e1fd80446e44e" target="_blank">
+  <a href="https://github.com/user-attachments/assets/fa7bff8e-08eb-4537-b3fe-2573627384b7" target="_blank">
     <img src="https://github.com/user-attachments/assets/ab4ea33b-1ac5-495e-9088-58538a514f44" alt="Watch Demo Video" style="width:100%; max-width:700px;">
   </a>
   <p><i>👆 Click the image to play the video</i></p>
 </div>
+
+https://github.com/user-attachments/assets/fa7bff8e-08eb-4537-b3fe-2573627384b7
 
 ---
 ### ⚠️ Disclaimer
