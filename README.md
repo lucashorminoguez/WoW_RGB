@@ -92,8 +92,6 @@ Only for the first time:
   <p><i>👆 Click the image to play the video</i></p>
 </div>
 
-https://github.com/user-attachments/assets/fa7bff8e-08eb-4537-b3fe-2573627384b7
-
 ---
 ### ⚠️ Disclaimer
 This project is **Output-Only**. It utilizes passive screen capture (1x1 pixel) to read the game state. **It does not inject code into memory, does not send keystrokes, and does not automate actions (botting).** It complies with the non-interference policy of the Turtle WoW client, acting solely as a visual indicator (Ambilight style).
