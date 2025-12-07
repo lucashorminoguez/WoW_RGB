@@ -1,7 +1,7 @@
 # WoW RGB Health Monitor (Scanner Bar Edition) ⚔️📠
-
+![Diagrama](resources/icon.ico)
 > **Why? Because I can.**
-
+w
 An immersive ambient lighting system for **Turtle WoW** (1.12.1) born from recycling, but engineered to be universal. This project converts your in-game health status into real-time room lighting (Green > Yellow > Red), powered by an ESP8266.
 
 While this prototype was built scavenging the **CIS (Contact Image Sensor)** light bar from a broken printer/scanner, **the firmware and software are fully compatible with any standard 5V Analog RGB LED strip.**
