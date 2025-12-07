@@ -82,10 +82,18 @@ Only for the first time:
 * **Turn Off:** Turns off LEDs without closing the app.
 * **Exit:** Closes the app.
 
----
+## TEST: 
 
+<div align="center">
+  <h3>Watch the Project Demo</h3>
+  <a href="https://github.com/user-attachments/assets/a9a05471-02a1-43d0-8fd5-e1fd80446e44e" target="_blank">
+    <img src="https://github.com/user-attachments/assets/ab4ea33b-1ac5-495e-9088-58538a514f44" alt="Watch Demo Video" style="width:100%; max-width:700px;">
+  </a>
+  <p><i>👆 Click the image to play the video</i></p>
+</div>
+
+---
 ### ⚠️ Disclaimer
 This project is **Output-Only**. It utilizes passive screen capture (1x1 pixel) to read the game state. **It does not inject code into memory, does not send keystrokes, and does not automate actions (botting).** It complies with the non-interference policy of the Turtle WoW client, acting solely as a visual indicator (Ambilight style).
 
 **Made with code, solder, and things other people threw away.** ♻️
-
