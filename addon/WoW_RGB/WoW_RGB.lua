@@ -2,20 +2,19 @@
 DEFAULT_CHAT_FRAME:AddMessage("WoW RGB cargado correctamente", 1, 1, 1)
 
 local f = CreateFrame("Frame", "HPBeacon", UIParent)
--- cuadro 
-f:SetWidth(12)
-f:SetHeight(12)
-
--- centrado
+-- Tamaño
+f:SetWidth(3)
+f:SetHeight(3)
+-- Posicion
 f:SetPoint("TOPLEFT",0,0)
-
--- Fondo BLANCO
+-- Fondo
 f:SetBackdrop({bgFile = "Interface\\Buttons\\WHITE8x8"})
 f:SetBackdropColor(1, 1, 1, 1) -- Blanco al inicio
-
 -- queda fijo
 f:SetMovable(false)
 f:EnableMouse(false)
+-- capa "TOOLTIP" asegura que este encima de todo
+f:SetFrameStrata("TOOLTIP")
 
 -- Eventos
 f:RegisterEvent("UNIT_HEALTH")
